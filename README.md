@@ -43,7 +43,7 @@ XBlog是一款基于前后端分离模式开发的二次元多端博客系统，
 ### 🧐本人使用过的语言
 
 <p align="center">
-	<img src="https://img.shields.io/badge/C-1.14-00acd7?logo=Go&logoColor=00acd7"/>
+	<img src="https://img.shields.io/badge/C-1.14-00acd7?logo=C&logoColor=00acd7"/>
 	<img src="https://img.shields.io/badge/C++-8-e0161a?logo=Java&logoColor=e0161a"/>
 	<img src="https://img.shields.io/badge/JavaScript-es6-efd81d?logo=JavaScript&logoColor=efd81d"/>
     <img src="https://img.shields.io/badge/Kotlin-1.14-eb7e21?logo=Kotlin&logoColor=eb7e21"/>
