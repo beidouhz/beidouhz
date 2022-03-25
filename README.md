@@ -10,7 +10,7 @@
 
 |  项目名字 | 介绍 | star数                                                       |
 |  :----:  | :----:  |  ------  |
-| 程序员书籍笔记 | [个人知识学习笔记](https://oshwhub.com/iceiceice/xue-rong-rong-ka-pian) | <img src="https://img.shields.io/github/stars/xiaoyou66/code-learn?logo=ReverbNation&logoColor=rgba(255,255,255,.6)" alt="GitHub stars"> |
+| 程序员书籍笔记 | [雪融融电路板](https://oshwhub.com/iceiceice/xue-rong-rong-ka-pian) | <img src="https://img.shields.io/github/stars/beidouhz/xuerongrong?logo=ReverbNation&logoColor=rgba(255,255,255,.6)" alt="GitHub stars"> |
 | kratos | [一款二次元wordpress主题](https://github.com/xiaoyou66/kratos) | <img src="https://img.shields.io/github/stars/xiaoyou66/kratos?logo=ReverbNation&logoColor=rgba(255,255,255,.6)" alt="GitHub stars"> |
 | 数据库课设 | [ 大二下学期数据库课设 ](https://github.com/xiaoyou-project/DatabaseKeshe) | <img src="https://img.shields.io/github/stars/xiaoyou-project/DatabaseKeshe?logo=ReverbNation&logoColor=rgba(255,255,255,.6)" alt="GitHub stars"> |
 | 机器人小白 | [一款智能QQ机器人](https://github.com/xiaoyou66/QQrobot) | <img src="https://img.shields.io/github/stars/xiaoyou66/QQrobot?logo=ReverbNation&logoColor=rgba(255,255,255,.6)" alt="GitHub stars"> |
