@@ -112,5 +112,5 @@ XBlog是一款基于前后端分离模式开发的二次元多端博客系统，
 
 |                          GitHub状态                          |                        使用最多的语言                        |
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=xiaoyou66&show_icons=true&theme=synthwave) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xiaoyou66&&hide=tsql) |
+| ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=beidouhz&show_icons=true&theme=synthwave) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beidouhz&&hide=tsql) |
 
